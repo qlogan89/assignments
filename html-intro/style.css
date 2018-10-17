@@ -1,0 +1,24 @@
+#container h1 {
+    color: darkgreen;
+}
+
+#container h1,h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-align: center;
+    
+}
+ 
+p,ul {
+    line-height: 25px;
+}
+#papa{
+    text-transform: uppercase;
+}
+
+#container a {
+    text-decoration: none;
+}
+#container a:Hover {
+    text-decoration: underline;
+}
+
