@@ -12,12 +12,9 @@ just fix the existing ones.
 var enemies =[ "Lex", "Batman", "Darkseid", "Brainiac", "General Zod", "Doomsday"];
 
 function whoWins(isThereKryptonite,enemyName) {
-    if (isThereKryptonite)
-    {
+    if (isThereKryptonite){
         return "Superman beats " +enemyName+ ", of course";
-    }
-
-    else {
+    } else {
         return "Depends on how quick Superman can get rid of the Kryptonite. "+ enemyName +" could possibly win this one.";
     }
 }
