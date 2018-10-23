@@ -1,0 +1,87 @@
+.france{
+    width: 300px;
+    height:200px;
+    position: relative;
+    border: solid black;
+}
+.fblue{
+    position:absolute;
+    height:200px;
+    width:100px;
+    background-color:blue;
+    right:0;
+}
+
+.fwhite{
+    position: absolute;
+    height: 200px;
+    width:100px;
+    background: white;
+}
+
+.fred{
+    background-color:red;
+    height: 200;
+    width:100;
+    right:0;
+}
+
+.german{
+    position: relative;
+    width: 300px;
+    height: 200px;
+}
+
+.gblack{
+    position:absolute;
+    width: 200px;
+    height: 100px;
+    top:0;
+    background-color: black;
+
+}
+
+.gred{
+    position: absolute;
+    width:200px;
+    height:100px;
+    background-color: red;
+}
+
+.gyellow{
+    position: absolute;
+    width:200px;
+    height:100px;
+    bottom:0;
+    background-color: yellow;
+}
+
+.madag{
+    position: relative;
+    width:300px;
+    height:200px;
+}
+
+.mred{
+    position: absolute;
+    width:300;
+    height:50;
+    top:0;
+    background-color: red;
+}
+
+.mgreen{
+    position: absolute;
+    width:300;
+    height:50;
+    bottom:0;
+    background-color: green;
+}
+
+.mwhite{
+    position: absolute;
+    height:300;
+    width: 150;
+    background-color: white;
+}
+

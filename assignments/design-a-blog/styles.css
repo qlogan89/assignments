@@ -1,0 +1,29 @@
+header{
+    background-color: crimson;
+    position: fixed;
+    top:0px;
+    width: 60%;  
+}
+
+body{
+    width: 60%;
+    margin:auto;
+   
+}
+h1{
+    position:relative,;
+}
+
+.blog{
+    
+position:relative,;
+
+}
+.blog img{
+    size: 300px;
+position: relative,;
+width: 150px;
+height:auto;
+float: left;
+margin:auto;
+}

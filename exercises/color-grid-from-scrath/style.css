@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    font-size: 0px;  
+}
+.body{
+    margin: 0 20%;
+}
+
+.pan{
+    background-color: #F5C6D6;
+    border: solid white;
+    height: 100px;
+    widows: 100%;
+}
+
+.bit{
+    display: inline-block;
+    background-color: #EE2E84;
+    border: solid white;
+    height: 100px;
+    width: 25%;
+}
+.bit2{
+    display: inline-block;
+    background-color: #EE2E84;
+    border: solid white;
+    height: 100px;
+    width: 25%
+}
+.bit3{
+    display:inline-block;
+    background-color: #EE2E84;
+    border:solid white;
+    height: 100px;
+    width:25%
+}
+.bit4{
+    display: inline-block;
+    background-color: #EE2E84;
+    border: solid white;
+    height: 100px;
+    width: 25%
+}
+.bit5{ 
+    display: inline-block;
+    background-color: #85CFD8;
+    border: solid white;
+    height: 100px;
+    width: 50%
+}
+.bit6{
+    display: inline-block;
+    background-color: #85CFD8;
+    border: solid white;
+    height: 100px;
+    width: 50%;
+}
+.bit7{
+    display:inline-block;
+    background-color: #8DC63F;
+    border: solid white;
+    height: 100px;
+    width: 75%;
+}
+.bit8{
+    display: inline-block;
+    background-color: #E76E34;
+    border: solid white;
+    height:100px;
+    width: 25%
+}

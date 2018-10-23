@@ -103,38 +103,45 @@
 //     console.log(fruit)
 // }
 
-for(var i = 0; i <= 100; i++){
-    if (i % 2 === 0){
-        console.log([i])
-    }
-}
+// for(var i = 0; i <= 100; i++){
+//     if (i % 2 === 0){
+//         console.log([i])
+//     }
+// }
 
-var fruit = ["banana", "orange", "apple", "kiwi", "pear", "peach"]
-var arr =[]
-for(var i = 0; i >= fruit.length; i++){
-    if (fruit % 2 === 0){
-        arr.push(fruit[i])
+// var fruit = ["banana", "orange", "apple", "kiwi", "pear", "peach"]
+// var arr =[]
+// for(var i = 0; i >= fruit.length; i++){
+//     if (fruit % 2 === 0){
+//         arr.push(fruit[i])
 
-    }
-}
+//     }
+// }
 
-var peopleArray = [
-    {
-      name: "Harrison Ford",
-      occupation: "Actor"
-    },
-    {
-      name: "Justin Bieber",
-      occupation: "Singer"
-    },
-    {
-      name: "Vladimir Putin",
-      occupation: "Politician"
-    },
-    {
-      name: "Oprah",
-      occupation: "Entertainer"
-    }
-  ]
+// var peopleArray = [
+//     {
+//       name: "Harrison Ford",
+//       occupation: "Actor"
+//     },
+//     {
+//       name: "Justin Bieber",
+//       occupation: "Singer"
+//     },
+//     {
+//       name: "Vladimir Putin",
+//       occupation: "Politician"
+//     },
+//     {
+//       name: "Oprah",
+//       occupation: "Entertainer"
+//     }
+//   ]
 
-  for(var i = )
+//   for(var i = 0  i >= peopleArray.name.length; i++){
+//       console.log(peopleArray.name.length)
+//   }
+
+
+// for(var i = 0; i <11; i++){
+//     console.log(i)
+// }
